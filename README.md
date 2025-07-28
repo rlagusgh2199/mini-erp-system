@@ -20,7 +20,7 @@ Spring Boot, React, Tailwind CSS를 기반으로 구성하였으며, 1~2주간�
 | Frontend | React, Tailwind CSS |
 | Backend | Spring Boot, Spring Data JPA |
 | Database | MySQL |
-| 기타 | REST API, JWT 인증 (구현 시), Gradle
+| 기타 | REST API, JWT 인증, Gradle
 
 ---
 
@@ -28,9 +28,9 @@ Spring Boot, React, Tailwind CSS를 기반으로 구성하였으며, 1~2주간�
 
 - 사용자 로그인 및 권한 기반 접근 제어
 - 매출 등록 / 조회 / 수정 / 삭제
-- 재고 관리 기능
-- 지출 내역 관리 기능
-- 날짜별 통계 필터링 기능 (있다면)
+- 재고 관리
+- 지출 내역 관리
+- 날짜별 필터링
 - MySQL 기반 CRUD API 구성
 
 ---
