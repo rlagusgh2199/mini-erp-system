@@ -83,5 +83,15 @@ mysql -u root -p < db/erp_db_structure.sql
 
 ---
 
+---
+
+## 🎥 시연 영상 보기
+
+[![Mini ERP System Demo](https://img.youtube.com/vi/xx11XfQ8Xeg/0.jpg)](https://youtu.be/xx11XfQ8Xeg)
+
+> 전체 흐름과 인터랙션은 영상에서 확인할 수 있습니다.
+> 로그인 → 대시보드 → 매출/지출/재고 관리까지 주요 기능 순서대로 시연됩니다.
+
+
 ## 🙋‍♂️ 개발자
 - GitHub: [@rlagusgh2199](https://github.com/rlagusgh2199)
