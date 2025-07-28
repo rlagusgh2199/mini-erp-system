@@ -1,6 +1,6 @@
 # 🧾 Mini ERP System
 
-간단한 소규모 ERP 시스템으로, 매출 · 지출 · 재고를 통합 관리할 수 있는 웹 기반 프로젝트입니다.  
+1인 개발한 소규모 ERP 시스템으로, 매출 · 지출 · 재고를 통합 관리할 수 있는 웹 기반 프로젝트입니다.  
 Spring Boot, React, Tailwind CSS를 기반으로 구성하였으며, 1~2주간의 단기 개인 프로젝트입니다.
 
 ---
@@ -27,6 +27,7 @@ Spring Boot, React, Tailwind CSS를 기반으로 구성하였으며, 1~2주간�
 ## 🧩 주요 기능
 
 - 사용자 로그인 및 권한 기반 접근 제어
+- JWT 기반 사용자 인증 및 인가 처리
 - 매출 등록 / 조회 / 수정 / 삭제
 - 재고 관리
 - 지출 내역 관리
@@ -85,6 +86,7 @@ mysql -u root -p < db/erp_db_structure.sql
 
 ## 🎥 시연 영상 보기
 
+📌 **아래 썸네일을 클릭하시면 실제 시연 영상을 보실 수 있습니다.**
 [![Mini ERP System Demo](https://img.youtube.com/vi/xx11XfQ8Xeg/0.jpg)](https://youtu.be/xx11XfQ8Xeg)
 
 > 전체 흐름과 인터랙션은 영상에서 확인할 수 있습니다.  
